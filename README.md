@@ -85,3 +85,25 @@ This project was developed as part of my **summer internship** and focuses on le
    ```bash
    git clone https://github.com/your-username/phishing-website-tracker.git
    cd phishing-website-tracker
+Install Required Libraries
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the Flask App
+
+bash
+Copy
+Edit
+python app.py
+Open in Browser
+Visit: http://127.0.0.1:5000 in your browser
+
+📄 License
+This project is for educational and research purposes during internship work. Please refer to the LICENSE file if included.
+
+🙌 Acknowledgements
+Special thanks to my internship mentors and guides who supported this project and helped bridge AI with cybersecurity.
+
+
